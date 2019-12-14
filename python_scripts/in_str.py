@@ -1,0 +1,5 @@
+a = ('one two three four five six')#input()
+a = a.split()
+b = a.count('one')
+c = len(a)
+print (' '.join([str(c), str(b)]))
