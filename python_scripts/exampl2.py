@@ -1,6 +1,4 @@
-c = ('a', 'b')
-d = ("Aa")
-i = 0
-if c in d.lower():
-    i += 1
-print (i)
+if n % 2 == 0:
+    print ('n - чётное число')
+else:
+    print ('n - нечётное число')
