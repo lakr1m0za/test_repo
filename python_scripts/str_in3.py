@@ -1,0 +1,1 @@
+print ('\n'.join([str(x**3) for x in range(1, abs(int(input())))]))
